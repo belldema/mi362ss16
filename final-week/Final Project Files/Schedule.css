@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 {
+    background-image: url('http://i.imgur.com/ip3oHxD.jpg');
+	background-repeat: no-repeat;
+	background size: cover;
+}
+
+
+@media (max-width: 400px) {
+   body {
+      font-size: 18px;
+      padding: 0 30px;
+    }
+}

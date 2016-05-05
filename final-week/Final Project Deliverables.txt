@@ -1,0 +1,1 @@
+Final Project DeliverablesFinal Project URL: http://lastfinal.crabdance.comChecklist:1. Hosted on Heroku (100)2. Custom Name  (100)3. 4 Full HTML Pages (300)4. 4 CSS Pages  (200)5. Two Custom Images (50)
